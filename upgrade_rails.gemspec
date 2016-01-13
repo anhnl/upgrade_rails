@@ -10,7 +10,9 @@ Gem::Specification.new do |s|
   s.description   = "Upgrades Rails 2.3.6 to 4.2.5"
   s.authors       = ["Anh Luong"]
   s.email         = 'anhluong019@gmail.com'
-  s.files         = `git ls-files`.split("\n")
+
+  # s.files         = `git ls-files`.split("\n")
+  s.files         = ["lib/upgrade_rails.rb", "lib/upgrade_rails/operations.rb"]
   s.test_files    = `git ls-files -- {test,spec,features}/*`
                     .split("\n")
 
