@@ -2,7 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name          = 'upgrade_rails'
-  s.version       = '0.0.1'
+  s.version       = UpgradeRails::VERSION
   s.platform      = Gem::Platform::RUBY
   s.required_ruby_version = '>= 1.9'
   s.date          = '2016-01-12'
