@@ -11,8 +11,7 @@ Gem::Specification.new do |s|
   s.authors       = ["Anh Luong"]
   s.email         = 'anhluong019@gmail.com'
 
-  # s.files         = `git ls-files`.split("\n")
-  s.files         = ["lib/upgrade_rails.rb", "lib/upgrade_rails/operations.rb"]
+  s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`
                     .split("\n")
 
