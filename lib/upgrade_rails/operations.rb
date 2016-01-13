@@ -69,176 +69,176 @@ module UpgradeRails
     def self.create_gitignore
     end
 
-    def create_gemfile
+    def self.create_gemfile
     end
 
-    def remove_readme
+    def self.remove_readme
     end
 
-    def create_readme_rdoc
+    def self.create_readme_rdoc
     end
 
-    def create_rakefile
+    def self.create_rakefile
     end
 
-    def create_app_assets_javascripts_application_js
+    def self.create_app_assets_javascripts_application_js
     end
 
-    def create_app_assets_stylesheets_application_css
+    def self.create_app_assets_stylesheets_application_css
     end
 
-    def create_application_controller_rb
+    def self.create_application_controller_rb
     end
 
 
-    def create_application_helper_rb
+    def self.create_application_helper_rb
     end
 
-    def create_layouts_application_html_erb
+    def self.create_layouts_application_html_erb
     end
 
-    def create_bin_bundle
+    def self.create_bin_bundle
     end
 
-    def create_bin_rails
+    def self.create_bin_rails
     end
 
-    def create_bin_rake
+    def self.create_bin_rake
     end
 
-    def create_bin_setup
+    def self.create_bin_setup
     end
 
-    def create_config_ru
+    def self.create_config_ru
     end
 
-    def create_config_application_rb
+    def self.create_config_application_rb
     end
 
-    def create_config_boot_rb
+    def self.create_config_boot_rb
     end
 
-    def create_config_database_yml
+    def self.create_config_database_yml
     end
 
-    def create_config_environment_rb
+    def self.create_config_environment_rb
     end
 
-    def create_config_environments_development_rb
+    def self.create_config_environments_development_rb
     end
 
-    def create_config_environments_production_rb
+    def self.create_config_environments_production_rb
     end
 
-    def create_config_environments_test_rb
+    def self.create_config_environments_test_rb
     end
 
-    def create_config_initializers_assets_rb
+    def self.create_config_initializers_assets_rb
     end
 
-    def create_config_initializers_backtrace_silencers_rb
+    def self.create_config_initializers_backtrace_silencers_rb
     end
 
-    def create_config_initializers_cookie_verification_secret_rb
+    def self.create_config_initializers_cookie_verification_secret_rb
     end
 
-    def create_config_initializers_cookies_serializer_rb
+    def self.create_config_initializers_cookies_serializer_rb
     end
 
-    def create_config_initializers_filter_parameter_logging_rb
+    def self.create_config_initializers_filter_parameter_logging_rb
     end
 
-    def create_config_initializers_inflections_rb
+    def self.create_config_initializers_inflections_rb
     end
 
-    def create_config_initializers_mime_types_rb
+    def self.create_config_initializers_mime_types_rb
     end
 
-    def create_config_initializers_new_rails_defaults_rb
+    def self.create_config_initializers_new_rails_defaults_rb
     end
 
-    def create_config_initializers_session_store_rb
+    def self.create_config_initializers_session_store_rb
     end
 
-    def create_config_initializers_wrap_parameters_rb
+    def self.create_config_initializers_wrap_parameters_rb
     end
 
-    def create_config_locales_en_yml
+    def self.create_config_locales_en_yml
     end
 
-    def create_config_routes_rb
+    def self.create_config_routes_rb
     end
 
-    def create_config_secrets_yml
+    def self.create_config_secrets_yml
     end
 
-    def create_db_seeds_rb
+    def self.create_db_seeds_rb
     end
 
-    def create_doc_readme_for_app
+    def self.create_doc_readme_for_app
     end
 
-    def create_public_404_html
+    def self.create_public_404_html
     end
 
-    def create_public_422_html
+    def self.create_public_422_html
     end
 
-    def create_public_500_html
+    def self.create_public_500_html
     end
 
-    def remove_public_index_html
+    def self.remove_public_index_html
     end
 
-    def remove_public_javascripts_application_js
+    def self.remove_public_javascripts_application_js
     end
 
-    def remove_public_javascripts_controls_js
+    def self.remove_public_javascripts_controls_js
     end
 
-    def remove_public_javascripts_effects_js
+    def self.remove_public_javascripts_effects_js
     end
 
-    def remove_public_javascripts_prototype_js
+    def self.remove_public_javascripts_prototype_js
     end
 
-    def create_public_robots_txt
+    def self.create_public_robots_txt
     end
 
-    def remove_script_about
+    def self.remove_script_about
     end
 
-    def remove_script_console
+    def self.remove_script_console
     end
 
-    def remove_script_dbconsole
+    def self.remove_script_dbconsole
     end
 
-    def remove_script_destroy
+    def self.remove_script_destroy
     end
 
-    def remove_script_generate
+    def self.remove_script_generate
     end
 
-    def remove_script_performance_benchmaker
+    def self.remove_script_performance_benchmaker
     end
 
-    def remove_script_performance_profiler
+    def self.remove_script_performance_profiler
     end
 
-    def remove_script_plugin
+    def self.remove_script_plugin
     end
 
-    def remove_script_runner
+    def self.remove_script_runner
     end
 
-    def remove_script_server
+    def self.remove_script_server
     end
 
-    def remove_test_performance_browsing_test_rb
+    def self.remove_test_performance_browsing_test_rb
     end
 
-    def create_test_test_helper_rb
+    def self.create_test_test_helper_rb
     end
   end
 end
